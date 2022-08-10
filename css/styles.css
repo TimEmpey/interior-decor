@@ -1,66 +1,21 @@
-.before {
-  width: 25%;
-  float: left;
-  background-color: grey;
-  margin: 35px;
-  padding: 4px;
-  border: 2px solid black;
-  margin-right: 750px;
-}
-.during {
-  width: 25%;
-  float: left;
-  background-color: grey;
-  margin: 35px;
-  padding: 4px;
-  border: 2px solid black;
-  margin-right: 750px;
-}
-.after {
-  width: 25%;
-  float: left;
-  background-color: grey;
-  margin: 35px;
-  padding: 4px;
-  border: 2px solid rgb(0, 0, 0);
-  margin-right: 750px;
-}
-.john{
-  float: right;
-  font-size: 30px;
-}
-.mary{
-  float: right;
-  font-size: 30px;
-}
-.peter{
-  float: right;
-  font-size: 30px;
-}
-
-.before h1{
-  color: red;
-  font-size: 30px;
-  border: 2px black;
+h1{
+  font-size:30px;
 }
 h2{
   font-size:30px;
 }
-.during h3{
-  color: red;
-  font-size:  30px;
+h3{
+  font-size:30px;
 }
 h4{
   font-size: 30px;
 }
-.after h5{
-  color: red;
+h5{
   font-size: 30px;
 }
 h6{
   font-size: 30px;
 }
-
 body{
   background-color:blanchedalmond;
 }
